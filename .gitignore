@@ -1,0 +1,6 @@
+# Ignore model files
+*.h5
+*.pkl
+*.pt
+*.bin
+*.ckpt
